@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jaxai"
+  site-url: "https://fredguth.github.io/jaxai"
+  description: "miniai in jax"
+  repo-branch: main
+  repo-url: "https://github.com/fredguth/jaxai"
